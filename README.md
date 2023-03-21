@@ -30,14 +30,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+<a href="https://www.loom.com/share/84789165ed1942ff98a5a0e7470a3fd5">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/84789165ed1942ff98a5a0e7470a3fd5-with-play.gif">
+  </a>
 
 ## Notes
 
